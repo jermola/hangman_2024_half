@@ -9,23 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3a9a89e-df2f-41b6-935e-2b222c675b42" name="Changes" comment="Muudetud mudelit, README, Settings Database ja listud ComboboxChange.">
-      <change afterPath="$PROJECT_DIR$/src/controllers/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listeners/ButtonCancel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/listeners/ButtonNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listeners/ComboboxChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/listeners/ComboboxChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/panels/GameBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/panels/GameBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/panels/LeaderBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/panels/LeaderBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/panels/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/panels/Settings.java" afterDir="false" />
-    </list>
+    <list default="true" id="c3a9a89e-df2f-41b6-935e-2b222c675b42" name="Changes" comment="Muudetud mudelit, README, Settings Database ja listud ComboboxChange.&#10;Tehtud tunnis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +106,7 @@
       <updated>1717920889536</updated>
       <workItem from="1717920890548" duration="19722000" />
       <workItem from="1718173578221" duration="24574000" />
-      <workItem from="1718200269022" duration="886000" />
+      <workItem from="1718200269022" duration="2174000" />
     </task>
     <task id="LOCAL−00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -145,7 +129,15 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1717956015139</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Muudetud mudelit, README, Settings Database ja listud ComboboxChange.&#10;Tehtud tunnis">
+      <option name="closed" value="true" />
+      <created>1718202205326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718202205326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +159,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="README.md õigesse kohta" />
     <MESSAGE value="Muudetud mudelit, README, Settings Database ja listud ComboboxChange." />
-    <option name="LAST_COMMIT_MESSAGE" value="Muudetud mudelit, README, Settings Database ja listud ComboboxChange." />
+    <MESSAGE value="Muudetud mudelit, README, Settings Database ja listud ComboboxChange.&#10;Tehtud tunnis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Muudetud mudelit, README, Settings Database ja listud ComboboxChange.&#10;Tehtud tunnis" />
   </component>
 </project>
